@@ -27,8 +27,8 @@
   ],
 
   hash: "#claws",
+  anchor: "#claws",
   fragment: "claws",
-  anchor: "claws",
 
   hostType: "domain-name",
   hostnameLabels: ["cats", "example", "org", "au"],
